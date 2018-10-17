@@ -1,0 +1,17 @@
+{
+  "name": "generator-ae-react",
+  "version": "0.1.0",
+  "description": "Ae's React Project Boilerplate",
+  "main": "app/index.js",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Attawit Kittikrairit",
+  "license": "ISC",
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^3.1.1"
+  }
+}
