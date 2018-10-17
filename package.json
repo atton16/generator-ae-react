@@ -7,6 +7,8 @@
     "yeoman-generator"
   ],
   "author": "Attawit Kittikrairit",
+  "homepage": "https://github.com/atton16/generator-ae-react#readme",
+  "repository": "github:atton16/generator-ae-react",
   "license": "ISC",
   "files": [
     "app"
