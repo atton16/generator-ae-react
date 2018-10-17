@@ -1,6 +1,6 @@
 {
   "name": "generator-ae-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Ae's React Project Boilerplate",
   "main": "app/index.js",
   "keywords": [
